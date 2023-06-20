@@ -11,6 +11,5 @@ The program has a simple graphical user interface(GUI) that allows a user to spe
 
 Here's a visual representation of a CSV file called "houses" given two different cutoff prices:
 ![Screen Shot 2023-06-19 at 8 04 03 PM](https://github.com/fgarfo/cheap-houses/assets/100949219/988f0891-b5ad-4bcb-adf9-668b36e209af)
-![Screen Shot 2023-06-19 at 4 02 50 PM](https://github.com/fgarfo/cheap-houses/assets/100949219/eb2d8dbc-9481-4fe8-b8c3-8b34c71116df)
-![Screen Shot 2023-06-19 at 4 03 25 PM](https://github.com/fgarfo/cheap-houses/assets/100949219/27feaeb4-e77f-4b47-9a52-d16009d90ef2)
+![Screen Shot 2023-06-19 at 8 04 17 PM](https://github.com/fgarfo/cheap-houses/assets/100949219/192611a4-f804-4e22-823d-0ca92c469b98)
 
