@@ -10,8 +10,6 @@ Houses that cost less than $125000, for example, are identified and their locati
 The program has a simple graphical user interface(GUI) that allows a user to specify the CSV file to be read and the cutoff price for the visualization.
 
 Here's a visual representation of a CSV file called "houses" given two different cutoff prices:
-![Image 1]((https://user-images.githubusercontent.com/100949219/246949924-eb2d8dbc-9481-4fe8-b8c3-8b34c71116df.png))
-![Alt text](image link)
 ![Screen Shot 2023-06-19 at 4 02 50 PM](https://github.com/fgarfo/cheap-houses/assets/100949219/eb2d8dbc-9481-4fe8-b8c3-8b34c71116df)
 ![Screen Shot 2023-06-19 at 4 03 25 PM](https://github.com/fgarfo/cheap-houses/assets/100949219/27feaeb4-e77f-4b47-9a52-d16009d90ef2)
 
